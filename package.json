@@ -1,0 +1,11 @@
+{
+  "name": "riemann-zeta",
+  "version": "1.0.0",
+  "description": "Node application to calculate the Riemann zeta function to arbitrary precision",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
